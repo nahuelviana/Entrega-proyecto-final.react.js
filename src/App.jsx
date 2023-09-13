@@ -5,7 +5,7 @@ import Footer from "./components/Footer/Footer"
 import {BrowserRouter as Router, Routes, Route} from "react-router-dom"
 import Error from "./components/pages/error/error"
 import { ItemListContainer } from './components/ItemListContainer/ItemListContainer';
-import ItemDetailContainer from './components/itemDetailContainer/ItemDetailContainer'
+import ItemDetailContainer from "./components/itemDetailContainer/itemDetailContainer"
 import { CartProvider } from './components/context/CartContext';
 import Carrito from './components/carrito/carrito';
 import Checkout from './components/Checkout/Checkout'
