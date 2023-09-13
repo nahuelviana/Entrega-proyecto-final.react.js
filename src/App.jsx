@@ -24,9 +24,9 @@ function App() {
             <Route path="/detail/:itemId" element={<ItemDetailContainer />} />
             <Route path="/cart" element={<Carrito />} />
             <Route path="checkout" element={<Checkout/>} />
-            <Route path="*" element={<Error/>} />
-            <Route path="*/*" element={<Error/>} />
-            <Route path="*/*/*" element={<Error/>} />
+            <Route path="/*" element={<Error/>} />
+            <Route path="/*/*" element={<Error/>} />
+            <Route path="/*/*/*" element={<Error/>} />
         </Routes>
           <Footer/>
         </main>
