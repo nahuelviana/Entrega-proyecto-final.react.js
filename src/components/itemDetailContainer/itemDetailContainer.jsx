@@ -2,7 +2,7 @@ import { useEffect, useState } from "react"
 import { pedirDatos } from "../Helper/pedirDatos"
 import "./ItemDetailContainer.css"
 import { useParams } from "react-router-dom"
-import ItemDetail from "../itemDetail/itemDetail"
+import ItemDetail from "../ItemDetail/ItemDetail"
 import {doc , getDoc} from "firebase/firestore"
 import { db } from "../../firebase/config"
 
