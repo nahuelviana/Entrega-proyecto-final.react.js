@@ -1,0 +1,12 @@
+
+.iconocarri{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 30px;
+}
+
+.iconocarri img {
+    width: 50px;
+    height: 50px;
+}

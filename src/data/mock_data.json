@@ -1,0 +1,83 @@
+[
+    {
+        "id": 1,
+        "nombre":"auriculares hyperex",
+        "categoria": "auriculares",
+        "descripcion": "auriculares hyperex inalambricos",
+        "precio": 5000,
+        "img" : "https://fullh4rd.com.ar/img/productos/28/auriculares-hp-hyperx-cloud-flight-wireless-pc-ps4-blackred-0.jpg",
+        "stock": 10
+    },
+    {
+        "id": 2,
+        "nombre":"auriculares razer",
+        "categoria": "auriculares",
+        "descripcion": "auriculares razer inalambricos",
+        "precio": 9000,
+        "img" : "https://hard-digital.com.ar/files/Auricular%20Razer%20Kraken%20Green/1.jpg",
+        "stock" : 10
+    },
+    {
+        "id": 3,
+        "nombre":"auriculares red dragon",
+        "categoria": "auriculares",
+        "descripcion": "auriculares red dragon",
+        "precio": 4000,
+        "img" : "https://s3-sa-east-1.amazonaws.com/saasargentina/jUCsI2fijMB4GbOFFqi9/imagen",
+        "stock" : 10
+    },
+    {
+        "id": 4,
+        "nombre":"teclado hyperex",
+        "categoria": "teclados",
+        "descripcion": "teclado hyperex",
+        "precio": 6000,
+        "img" : "https://www.venex.com.ar/products_images/1572961562_6371052_sd.jpg",
+        "stock" : 10
+    },
+    {
+        "id": 5,
+        "nombre":"teclado razer",
+        "categoria": "teclados",
+        "descripcion": "teclado razer",
+        "precio": 6000,
+        "img" : "https://http2.mlstatic.com/D_NQ_NP_634720-MLA48698558368_122021-O.webp",
+        "stock" : 10
+    },
+    {
+        "id": 6,
+        "nombre":"teclado red dragon",
+        "categoria": "teclados",
+        "descripcion": "teclado red dragon",
+        "precio": 7000,
+        "img" : "https://www.venex.com.ar/products_images/1655235616_k552rgb_pnghq_3.png",
+        "stock" : 10
+    },
+    {
+        "id": 7,
+        "nombre":"mouse hyperex",
+        "categoria": "mouses",
+        "descripcion": "mouse hyperex inalambrico",
+        "precio": 6000,
+        "img" : "https://www.fullh4rd.com.ar/img/productos/14/mouse-hp-hyperx-pulsefire-surge-black-rgb-16000dpi-ambidiest-0.jpg",
+        "stock" : 10
+    },
+    {
+        "id": 8,
+        "nombre":"mouse razer",
+        "categoria": "mouses",
+        "descripcion": "mouse razer",
+        "precio": 6000,
+        "img" : "https://http2.mlstatic.com/D_NQ_NP_686894-MLA31022953654_062019-O.webp",
+        "stock" : 10
+        },
+    {
+        "id": 9,
+        "nombre":"mouse red dragon",
+        "categoria": "mouses",
+        "descripcion": "mouse red dragon",
+        "precio": 3000,
+        "img" : "https://smarts.com.ar/media/catalog/product/cache/e2fffb2b85fe85187f9dedbb6434d061/m/9/m908-impact_ok.jpg",
+        "stock" : 10
+    }
+]

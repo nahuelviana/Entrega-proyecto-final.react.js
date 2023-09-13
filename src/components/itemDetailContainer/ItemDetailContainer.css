@@ -1,0 +1,13 @@
+
+h2{
+    text-align: center;
+    text-decoration: underline;
+    text-transform: uppercase;
+}
+
+.contenedorDetail{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #332E30;
+}

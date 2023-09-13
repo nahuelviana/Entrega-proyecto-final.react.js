@@ -1,0 +1,59 @@
+.page-footer{
+    color: white;
+    background-color:#4D3636;
+}
+
+.textoFooter {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-transform: uppercase;
+}
+
+.ulRedes{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    list-style: none;
+}
+
+.ulRedes li {
+    display: flex;
+    justify-content: center;
+    margin-right: 50px;
+}
+
+.containerCopyright {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.iconoFacebook{
+    width: 50px;
+    height: 50px;
+}
+
+.iconoTwitter{
+    width: 50px;
+    height: 50px;
+}
+
+.iconoInstagram {
+    width: 50px;
+    height: 50px;
+}
+
+.iconoGitHub {
+    width: 50px;
+    height: 50px;
+}
+
+.white-text {
+    text-align: center;
+    margin-bottom: 20px ;
+    font-size: 30px;
+}
+h5{
+    margin: 10px;
+}

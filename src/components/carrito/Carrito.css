@@ -1,0 +1,126 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.contendor-titulo{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-decoration: underline;
+    background-color: black;
+    color: white;
+    padding-bottom: 10px;
+}
+.contendor-cards-carrito{
+    display: flex;
+    justify-content:center;
+    align-items: center;
+    flex-direction: column;
+    background-color: #332E30;
+}
+
+.card-carrito{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 10px;
+    margin-bottom: 20px;
+    width: 370px;
+    border: 5px solid #4D3636;
+    border-radius: 20px;
+    background-color: white;
+}
+
+.card-carrito h3{
+    font-size: 25px;
+}
+.card-carrito img {
+    width: 300px;
+    height: 200px;
+}
+
+.carrito-detalle{
+    padding: 10px;
+    border: 2px solid black;
+    margin: 30px;
+}
+
+.card-carrito p{
+    font-size: 25px;
+    text-decoration: underline;
+}
+
+.contenedor-acciones-carrito{    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #332E30
+}
+
+.acciones-carrito{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    border: 3px solid black;
+    padding: 20px;
+    margin-bottom: 20px;
+    width: 400px;
+    color: white;
+    background-color: #332E30;
+    border-radius: 40px;
+}
+.acciones-carrito h4{
+    margin-bottom: 20px;
+}
+.checkout{
+    background-color: green;
+    margin-bottom: 10px;
+    font-size: 20px;
+}
+.vaciar-carrito{
+    font-size: 20px;
+    background-color: red;
+}
+.precio-total{
+    color: white;
+    border-radius: 10px;
+    margin-bottom: 20px;
+    padding: 10px;
+}
+
+.precio-total h4{
+    font-size: 30px;
+    margin-top: 10px;
+}
+
+
+.contenedor-no-hay-prod{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #332E30;
+}
+
+
+.no-hay-prod{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin: 20px;
+    border: 2px solid black;
+    width: 600px;
+    background-color: black;
+}
+.no-hay-prod h5{
+    color: white;
+    font-size: 30px;
+}
+.boton-volver{
+    background-color: lightblue;
+    margin-bottom: 10px;
+}

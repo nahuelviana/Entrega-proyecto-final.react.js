@@ -1,0 +1,36 @@
+.itemdetalle{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+    margin: 25px;
+    border: 5px solid #4D3636;
+    height: auto;
+    width: auto;
+    background-color: white ;
+}
+h3{
+    font-size: 30px;
+    text-transform: uppercase;
+    margin-bottom: 40px;
+}
+.descripcion-producto{
+    margin-bottom: 40px;
+    font-size: 20px;
+    text-transform: uppercase;
+    text-decoration: underline;
+}
+.precio{
+    margin-bottom: 30px;
+    font-size: 20px;
+}
+.itemdetalle button{
+    background-color: #999999;
+    margin-top: 30px;
+}
+.addItem{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

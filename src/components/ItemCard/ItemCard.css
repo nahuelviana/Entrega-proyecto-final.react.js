@@ -1,0 +1,43 @@
+img{
+    height: 120px;
+    width: 150px;
+    margin-bottom: 30px;
+}
+
+.cards{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 10px;
+    margin-bottom: 20px;
+    width: 400px;
+    height: 500px;
+    border: 5px solid #4D3636;
+    border-radius: 20px;
+    background-color: white;
+}
+.cards button{
+    margin-top: 20px;
+    background-color: #999999;
+    color: #4D3636;
+    width: 150px;
+    height: 50px;
+    font-size: 20px;
+}
+.cards h3{
+    text-transform: uppercase;
+    font-size: 20px;
+    margin-bottom: 55px;
+}
+
+.descripcionProd { 
+    font-size: 20px;
+    margin-bottom: 25px;
+    text-transform: uppercase;
+}
+
+.precioProd{
+    font-size: 20px;
+    margin-bottom: 15px;
+}

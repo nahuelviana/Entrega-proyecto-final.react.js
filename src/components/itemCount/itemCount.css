@@ -1,0 +1,21 @@
+.item-count {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.item-count button{
+    color: white;
+    background-color: #4D3636;
+    margin: 20px;
+}
+
+.div-boton-agregar {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.agregar-al-carrito{
+    background-color: black;
+}
