@@ -7,7 +7,7 @@ import Error from "./components/pages/error/error"
 import { ItemListContainer } from './components/ItemListContainer/ItemListContainer';
 import ItemDetailContainer from "./components/itemDetailContainer/itemDetailContainer"
 import { CartProvider } from './components/context/CartContext';
-import Carrito from './components/carrito/carrito';
+import Carrito from "./components/carrito/Carrito"
 import Checkout from './components/Checkout/Checkout'
 
 function App() {
